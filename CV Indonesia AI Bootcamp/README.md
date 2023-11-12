@@ -29,4 +29,12 @@ Confusion matrix:
 Example Predictions:
 ![image](https://github.com/daniui/Machine-Learning-Project/assets/120458194/741c792f-609f-4212-a670-443fd4c0c8ac)
 
+Recommendations : as we can see there is 1 false predictions, this raise suspiction that the model is not trained enough in recognizing female with a short hair. Therefore we need a lot more female data with short hair.
 
+## Dependencies
+This project requires Python 3 and the following Python libraries installed:
+
+Basic Libraries: NumPy, Matplotlib, Pandas
+Deep-learning Frameworks: Pytorch
+
+📨 That's all, for any discussion kindly contact me here: www.linkedin.com/in/hilmyrahmadani
