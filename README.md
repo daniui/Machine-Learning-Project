@@ -25,6 +25,7 @@ Beberapa hal yang mungkin bisa kamu muat yaitu:
 1. Hasil Loss dan accuracy pada train dan test menggunakan model googlenet
    
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/704bc1a5-66f2-4df1-bc58-d7cb34736671)
+
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/c49d3f83-1d35-4814-bdfb-9a10416c8f50)
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/91c34fc4-d044-4b26-9a24-75fbe0cf6dd9)
 
