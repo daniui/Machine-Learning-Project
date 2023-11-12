@@ -36,5 +36,6 @@ Beberapa hal yang mungkin bisa kamu muat yaitu:
 
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/b92daa40-5e2c-4905-aa21-2def039625bc)
 
+Rekomendasi : Seperti dilihat di gambar, ada salah prediksi di gambar perempuan memakai helm, ada kecurigaan bahwa model kurang terlatih untuk mengklasifikasikan perempuan dengan rambut yang tidak kelihatan panjang. Karenanya di rekomendasikan untuk menyiapkan dataset yang lebih banyak untuk perempuan yang mempunyai rambut kurang panjang.
 
 Contact www.linkedin.com/in/hilmyrahmadani
