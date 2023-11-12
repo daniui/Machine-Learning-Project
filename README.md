@@ -28,15 +28,13 @@ Beberapa hal yang mungkin bisa kamu muat yaitu:
 
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/c49d3f83-1d35-4814-bdfb-9a10416c8f50)
 ![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/91c34fc4-d044-4b26-9a24-75fbe0cf6dd9)
+2. Confussion matrix
 
-3. 
-4. Visualisasi gambar-gambar yang berhasil diprediksi oleh model kamu
-5. Grafik-grafik yang relevan seperti performa model kamu saat proses training
-6. Gambar confusion matrix dan lain sebagainya
+![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/dbbe14f5-45ca-4af7-a342-16706a7219a0)
 
-Contact
+3. Gambar yang berhasil dan tidak berhasil di prediksi
 
-Last but not least, jangan lupa tinggalkan informasi kontak kamu seperti email atau link website
-pribadi, dimana pengunjung bisa menghubungi kamu ketika tertarik untuk bertanya lebih jauh
-apa yang sudah kamu kerjakan di project tersebut, atau bahkan ketika recruiters tertarik dengan
-potensi kamu! 😊
+![image](https://github.com/daniui/Indonesia-AI-project-Face-Recognition/assets/120458194/b92daa40-5e2c-4905-aa21-2def039625bc)
+
+
+Contact www.linkedin.com/in/hilmyrahmadani
