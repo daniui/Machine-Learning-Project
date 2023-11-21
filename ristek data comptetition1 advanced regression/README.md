@@ -6,3 +6,4 @@ takeaways from this competition:
   - do experiment more on stacking with multiple models
   - do research on overfit and underfit
   - learn more about CV vs train-test-split
+  - *use tracking such as wandb*
