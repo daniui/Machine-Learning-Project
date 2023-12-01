@@ -10,9 +10,9 @@ First group project in Indonesia AI computer vision bootcamp
 ## Project Overview
 For our fisrt project we did a face recognition for gender classification that is useful for a lot industry, from retail and healthcare to banking and entertainment, various industries are harnessing the capabilities of facial recognition to streamline processes, enhance security and offer personalized experiences.
 For this project we do a group research on 3 suggested model:
-1. [Googlenet](). (Hilmy Rahmadani & I Putu Ananta Yogiswara)
-2. [VGG](). (Hendra Ronaldi & Fathurrahman Hernanda Khasan)
-3. [Resnet](). (Harrison & Fitrah Ramadhan Reza)
+1. [Googlenet](https://github.com/daniui/Machine-Learning-Project/blob/c55a3e3c539ea57643dff084d798e6fffb2b5a37/CV%20Indonesia%20AI%20Bootcamp/Project%201%3A%20Face%20Recognition/Dani_CVB_project_1_Face_Recognition_googlenet%20(1).ipynb). (Hilmy Rahmadani & I Putu Ananta Yogiswara)
+2. [VGG](https://github.com/daniui/Machine-Learning-Project/blob/c55a3e3c539ea57643dff084d798e6fffb2b5a37/CV%20Indonesia%20AI%20Bootcamp/Project%201%3A%20Face%20Recognition/VGG.ipynb). (Hendra Ronaldi & Fathurrahman Hernanda Khasan)
+3. [Resnet](https://github.com/daniui/Machine-Learning-Project/blob/c55a3e3c539ea57643dff084d798e6fffb2b5a37/CV%20Indonesia%20AI%20Bootcamp/Project%201%3A%20Face%20Recognition/Resnet.ipynb). (Harrison & Fitrah Ramadhan Reza)
 Notes : This repository will be focused on model that i worked on (googlenet)
 ## Dataset 
 Dataset [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) used in this project. It was sampled down and provided by the bootcamp to be consists of 5000 face images. The attribute information of the images can be seen [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/?select=list_attr_celeba.csv), we use the column Male as target for this project (-1 as Female and 1 as Male)
