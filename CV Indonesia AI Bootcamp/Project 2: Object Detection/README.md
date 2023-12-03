@@ -25,7 +25,7 @@ For this project we do a group research on 2 suggested model (Faster R-CNN and Y
 6. YOLO v8 ([Satriaji Najha Darmawan](https://github.com/daniui/Machine-Learning-Project/blob/94d0f1ad1c3131526514168b131863330f270e40/CV%20Indonesia%20AI%20Bootcamp/Project%202%3A%20Object%20Detection/Satriaji_PersonDetection_trainingYOLOv8.ipynb) & [Nadya Novalina](https://github.com/daniui/Machine-Learning-Project/blob/94d0f1ad1c3131526514168b131863330f270e40/CV%20Indonesia%20AI%20Bootcamp/Project%202%3A%20Object%20Detection/Nadya_Project_2_yolov8m.ipynb))
 
 
-Notes : This repository will be focused on model that i worked on (Faster R-CNN with googlenet as backbone), and the team presentation result can be seen [here]()
+Notes : This repository will be focused on model that i worked on (Faster R-CNN with googlenet as backbone), and the team presentation result can be seen [here](https://github.com/daniui/Machine-Learning-Project/blob/4eb648a18f55dfb8c62f6863a702c06bd8bea9d0/CV%20Indonesia%20AI%20Bootcamp/Project%202%3A%20Object%20Detection/Project%202.pdf)
 
 ## Dataset 
 COCO-2017 from fiftyone was used in this project. it was sampled down to 4800 data (4000 train, 400 validation, 400 test). For this project we use person class only in detection.
