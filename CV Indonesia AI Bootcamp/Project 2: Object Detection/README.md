@@ -21,6 +21,8 @@ For this project we do a group research on 2 suggested model (Faster R-CNN and Y
 4. YOLO v3 ([Satriaji Najha Darmawan]() & [Tri Wahyu Prabowo]())
 5. [YOLO v5] (Tri Wahyu Prabowo & Yurixa Sakhinatul Putri)
 6. [YOLO v8]() (Satriaji Najha Darmawan & Nadya Novalina)
+
+
 Notes : This repository will be focused on model that i worked on (Faster R-CNN with googlenet as backbone), and the team presentation result can be seen [here]()
 
 ## Dataset 
@@ -28,7 +30,7 @@ COCO-2017 from fiftyone was used in this project. it was sampled down to 4800 da
 
 ## Experiment Result (Faster R-CNN with Googlenet as backbone)
 we achieve mAP as follows
-![image](https://github.com/daniui/Machine-Learning-Project/assets/120458194/da8cd558-d18c-447d-add1-c4d2946f1a4a)
+-
 
 and test/train loss as follows: 
 -
@@ -39,7 +41,7 @@ PR Curve
 -
 
 Example Predictions:
-![image](https://github.com/daniui/Machine-Learning-Project/assets/120458194/0a764cbd-23bb-41e4-ae7c-8b49a770ec0d)
+![image](https://github.com/daniui/Machine-Learning-Project/assets/120458194/da8cd558-d18c-447d-add1-c4d2946f1a4a)
 
 ## Dependencies
 This project requires Python 3 and the following Python libraries installed:
