@@ -32,7 +32,9 @@ COCO-2017 from fiftyone was used in this project. it was sampled down to 4800 da
 
 ## Experiment Result (Faster R-CNN with Googlenet as backbone)
 we achieve mAP as follows
--
+![image](https://github.com/daniui/Machine-Learning-Project/assets/120458194/d4996aa8-0a03-4fb2-8456-ca3c5ecd1368)
+
+As we can see, i did a lot experiment on using different quantity of train and validation data, and different optimizer and learning rate scheduler, and the best i can get is 0.208 mAP, from 4000 train, 400 test, 400 validation, optimizer sgd, multi-step larning rate scheduler.
 
 and test/train loss as follows: 
 -
