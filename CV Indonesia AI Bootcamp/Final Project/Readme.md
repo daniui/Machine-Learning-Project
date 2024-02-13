@@ -80,20 +80,9 @@ After the training process, the model is evaluated using a validation dataset to
 
 #### * Validation Results on Each Classes
 
-**YOLOv3u :**
-<img align="center" src="https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/yolov3u_val.png" alt="graph" width="1000" height="250">
-**YOLOv5s :**
-<img align="center" src="https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/yolov5s_val.png" alt="graph" width="1000" height="250">
-**YOLOv8s :**
-<img align="center" src="https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/yolov8s_val.png" alt="graph" width="1000" height="250">
+**YOLOv8x :**
 
 
-Here is the table of overall results comparison :
-Model | Precision | Recall | mAP50 | mAP(50-95) | Inference time (ms) 
-:----:|:---------:|:------:|:-----:|:----------:|:------------------:
-YOLOv3u | 0.816 | 0.778 | 0.810  | 0.644 | ±21   
-YOLOv5s | 0.755 | 0.510 | 0.562  | 0.310 | ±11
-YOLOv8s | 0.859 | 0.779 | 0.829  | 0.637 | ±11
 
 ## ★ The Results
 
