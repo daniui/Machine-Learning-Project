@@ -93,29 +93,17 @@ Here is the prediction result tested on a video of coral reef survey, please cli
 [![Video Result](https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/inference.jpeg)](https://youtu.be/rFBefc5lNRQ)
 
 
-### Deploy on Roboflow
-
-Performing web deployment using the Roboflow API, please click the image to go to the deployment page :
-
-[![Web Deployment](https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/roboflow-web-deploy.png)](https://universe.roboflow.com/computer-vision-xiyu1/coral-life-forms-detection/model/4)
-
 ## Explore the Code!
 
 The main notebook used for Model Development & Optimization can be accessed at the following link:
-
-[YOLOv3u-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov3u.ipynb)
-
-[YOLOv5s-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov5s.ipynb)
-
-[YOLOv8s-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov8s.ipynb)
+[YOLOv8x-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov8s.ipynb)
 
 ## 📧 Contact
 
 If you have any questions, feedback, or would like to contribute to this project, feel free to contact the following:
 
-- Nama: [ Tri Wahyu Prabowo ]
-- Email: [ triwahyu@reefgen.io ]
-- LinkedIn: [ [Tri Wahyu Prabowo](https://www.linkedin.com/in/triwahyupra) ]
-- Instagram: [ [@triwahyupra](https://www.instagram.com/triwahyupra/) ]
+- Nama: [ Hilmy Rahmadani ]
+- Email: [ rahmadanihilmy@gmail.com ]
+- LinkedIn: [ [Tri Wahyu Prabowo](https://www.linkedin.com/in/hilmyrahmadani/)
  
 Thank you for your support and contributions!
