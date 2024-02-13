@@ -97,7 +97,7 @@ Here is the prediction result tested on a video of coral reef survey, please cli
 ## Explore the Code!
 
 The main notebook used for Model Development & Optimization can be accessed at the following link:
-[YOLOv8x-Coral Detection](https://github.com/triwahyupra/project-coral-monitoring/blob/fca79479e0ffe6a459b2f97b2736e616fcc504e9/notebook-finalproject/coral-detection-yolov8s.ipynb)
+[YOLOv8x-Coral Detection](https://github.com/daniui/Machine-Learning-Project/blob/9953e58d6532daf36d32fec7a2279972f210f10a/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Hillmy_Rahmadani_Final_Project_Coral_Object_Detection_YOLOv8x.ipynb)
 
 ## 📧 Contact
 
