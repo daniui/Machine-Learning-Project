@@ -81,6 +81,10 @@ After the training process, the model is evaluated using a validation dataset to
 #### * Validation Results on Each Classes
 
 **YOLOv8x :**
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.40.04.png >
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.41.55.png>
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.42.15.png >
+
 
 
 
@@ -104,6 +108,6 @@ If you have any questions, feedback, or would like to contribute to this project
 
 - Nama: [ Hilmy Rahmadani ]
 - Email: [ rahmadanihilmy@gmail.com ]
-- LinkedIn: [ [Tri Wahyu Prabowo](https://www.linkedin.com/in/hilmyrahmadani/)
+- LinkedIn: [ [Hilmy Rahmadani](https://www.linkedin.com/in/hilmyrahmadani/)
  
 Thank you for your support and contributions!
