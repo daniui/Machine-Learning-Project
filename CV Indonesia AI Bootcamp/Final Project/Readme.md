@@ -81,12 +81,9 @@ After the training process, the model is evaluated using a validation dataset to
 #### * Validation Results on Each Classes
 
 **YOLOv8x :**
-<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.40.04.png >
-<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.41.55.png>
-<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/252fc38764cdaf61462effc57b3f052a8904af83/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.42.15.png >
-
-
-
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/3a68096ff1f1050ba6a26c99dc459ede9d721033/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2011.40.04.png >
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/3a68096ff1f1050ba6a26c99dc459ede9d721033/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2012.02.15.png>
+<img align="center" src= https://github.com/daniui/Machine-Learning-Project/blob/3a68096ff1f1050ba6a26c99dc459ede9d721033/CV%20Indonesia%20AI%20Bootcamp/Final%20Project/Assets/Screenshot%202024-02-13%20at%2012.02.30.png>
 
 ## ★ The Results
 
@@ -94,7 +91,7 @@ After the training process, the model is evaluated using a validation dataset to
 
 Here is the prediction result tested on a video of coral reef survey, please click the image to see the video results on YouTube:
 
-[![Video Result](https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/inference.jpeg)](https://youtu.be/rFBefc5lNRQ)
+[![Video Result](https://github.com/triwahyupra/project-coral-monitoring/blob/6bfd0463506ee3eecb6f7b5e107ce5bf7a68b7b0/assets-finalproject/inference.jpeg)](https://youtu.be/Rq34tTZci3A)
 
 
 ## Explore the Code!
