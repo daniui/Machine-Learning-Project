@@ -1,1 +1,2 @@
-Mini Competition Data Science by GDSC UI! In this challenge, we are tasked with developing predictive models to estimate the arrival time of seismic events following an earthquake. The goal is to advance the field of seismic monitoring and contribute to the development of more effective earthquake early warning systems.
+# Mini Competition Data Science by GDSC UI! 
+In this challenge, we are tasked with developing predictive models to estimate the arrival time of seismic events following an earthquake. The goal is to advance the field of seismic monitoring and contribute to the development of more effective earthquake early warning systems.
