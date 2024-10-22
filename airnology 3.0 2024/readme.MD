@@ -1,4 +1,5 @@
-#Objective Quest Dataquest Part of AIRNOLOGY 3.0
+# Objective Quest Dataquest Part of AIRNOLOGY 3.0
+
 https://www.kaggle.com/competitions/objective-quest-dataquest-part-of-airnology/data
 
 Membangun dan mengembangkan model prediktif yang dapat mengklasifikasikan jenis traffic dalam jaringan. Model ini harus mampu menganalisis data traffic yang besar dan bervariasi, mengidentifikasi pola-pola yang mencurigakan, dan memprediksi kategori traffic secara akurat.
