@@ -1,5 +1,6 @@
 # Final project: Coral Object Detection
 This project showcases the experimentation of YOLO (You Only Look Once) as a state-of-the-art real-time object detection system that stands out for its real-time capabilities. The dataset used consists of custom data obtained from a collection of coral reef images gathered during a survey conducted by a Remotely Operated Underwater Vehicle (ROV). Subsequently, the data was manually annotated in Roboflow. The model has been trained to fulfill the requirements of detecting coral life forms for analyzing the impact of climate change on coral biodiversity in a marine survey area.
+https://docs.google.com/presentation/d/11uNN066W8HUieTp2LAaC45LjVdw8UQi4utRGyHKmEvU/edit#slide=id.g26793589b75_0_208
 
 * Project's title: **Coral Life Forms Detection for Analysis of Climate Change Impact on Coral Biodiversity**
 * Authors: Hilmy Rahmadani
