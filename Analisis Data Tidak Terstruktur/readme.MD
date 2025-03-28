@@ -1,1 +1,1 @@
-# Kompilasi tugas-tugas mata kuliah analisis data tidak 
+# Kompilasi tugas-tugas mata kuliah analisis data tidak terstruktur
